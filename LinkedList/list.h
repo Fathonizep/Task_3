@@ -1,5 +1,5 @@
-#ifndef ASD_H_INCLUDED
-#define ASD_H_INCLUDED
+#ifndef list_H_INCLUDED
+#define list_H_INCLUDED
 #include <iostream>
 #include <stdlib.h>
 #include <cstring>
@@ -51,5 +51,5 @@ address findelm(list l, infotype x);
 void viewlist (list l);
 
 
-#endif // ASD_H_INCLUDED
+#endif // list_H_INCLUDED
 
