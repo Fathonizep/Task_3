@@ -1,3 +1,6 @@
+#include "list.h"
+using namespace std;
+
 void deleteafter (list *l, address *p, address prec)
 {
     *p = next(prec);
